@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Practica Facu Proga 2\\Ejercitacion\\Ejercicio01\\Ejercicio01.csproj": {}
+    "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Ejercitacion\\Ejercicio01\\Ejercicio01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Practica Facu Proga 2\\Ejercitacion\\Ejercicio01\\Ejercicio01.csproj": {
+    "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Ejercitacion\\Ejercicio01\\Ejercicio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Practica Facu Proga 2\\Ejercitacion\\Ejercicio01\\Ejercicio01.csproj",
+        "projectUniqueName": "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Ejercitacion\\Ejercicio01\\Ejercicio01.csproj",
         "projectName": "Ejercicio01",
-        "projectPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Practica Facu Proga 2\\Ejercitacion\\Ejercicio01\\Ejercicio01.csproj",
+        "projectPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Ejercitacion\\Ejercicio01\\Ejercicio01.csproj",
         "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Practica Facu Proga 2\\Ejercitacion\\Ejercicio01\\obj\\",
+        "outputPath": "C:\\Users\\agust\\OneDrive\\Escritorio\\Facultad\\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\\Ejercitacion\\Ejercicio01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
