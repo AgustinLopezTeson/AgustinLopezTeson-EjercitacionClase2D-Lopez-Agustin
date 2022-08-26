@@ -20,7 +20,7 @@ namespace Ejercicio03
 
 
             while (respuesta == false)
-               {
+            {
                    Console.WriteLine("Error,ingrese un dato valido");
                    Console.WriteLine("Para terminar ingrese SALIR");
 
@@ -28,20 +28,45 @@ namespace Ejercicio03
                    {
                        Environment.Exit(0);
                    }
-               }
+            }
 
-            for (int i = 1; i <= numeroInt; i++)
+
+            for (int x = 0; x <= numeroInt; x++)
             {
-                for (int j = 2; j < i; j++)
+                if (EsPrimo(x))
                 {
-                    if(i%j==0 || i==2)
-                    {
-                        Console.WriteLine("El numero {0} es primo",i);
-                        break;
-                    }
+                    Console.WriteLine(x);
                 }
             }
 
         }
+
+        static bool EsPrimo(int num)
+        {
+
+            bool respuesta=true;
+
+            for (int i = 2; i <= num / 2; i++)
+            {
+
+                if (num % i == 0)
+                {
+
+                    respuesta = false;
+                }
+                else
+                {
+                    if (i == 2 || i == 4)
+                    {
+                        respuesta = true;
+                    }
+
+                }
+
+
+            }
+            return respuesta;
+        }
+
     }
 }
