@@ -1,0 +1,16 @@
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\bin\Debug\net5.0\Ejercicio06.exe
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\bin\Debug\net5.0\Ejercicio06.deps.json
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\bin\Debug\net5.0\Ejercicio06.runtimeconfig.json
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\bin\Debug\net5.0\Ejercicio06.runtimeconfig.dev.json
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\bin\Debug\net5.0\Ejercicio06.dll
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\bin\Debug\net5.0\Ejercicio06.pdb
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\Ejercicio06.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\Ejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\Ejercicio06.AssemblyInfoInputs.cache
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\Ejercicio06.AssemblyInfo.cs
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\Ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\Ejercicio06.dll
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\refint\Ejercicio06.dll
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\Ejercicio06.pdb
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\Ejercicio06.genruntimeconfig.cache
+C:\Users\agust\OneDrive\Escritorio\Facultad\AgustinLopezTeson-EjercitacionClase2D-Lopez-Agustin\Ejercitacion\Ejercicio06\obj\Debug\net5.0\ref\Ejercicio06.dll

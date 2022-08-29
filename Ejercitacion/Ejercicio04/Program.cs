@@ -30,30 +30,32 @@ namespace Ejercicio04
                 for (j = 1; j <= i - 1; j++)
                 {
                     if (i % j == 0)
-                    { contador += j;
+                    {
+                        contador += j;
+                    }
+
+                    if (contador == i)
+                    {
+                        perfectos[n] = i;
+                        n++;
+                        maximos++;
+                    }
+
+                    if (maximos == 4)
+                    {
+                        break;
+                    }
+
+
                 }
-                
-                if (contador == i)
-                {
-                    perfectos[n] = i;
-                    n++;
-                    maximos++;
-                }
-                
-                if (maximos == 4)
-                {
-                        break; 
-                }
 
 
-            }
-
-
-            for (int h= 0; h < perfectos.Length; h++)
+                for (int h = 0; h < perfectos.Length; h++)
                 {
                     Console.WriteLine(perfectos[h]);
                 }
-            
+
+            }
         }
     }
-   
+}
