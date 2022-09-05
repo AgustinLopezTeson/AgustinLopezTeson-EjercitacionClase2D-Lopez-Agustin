@@ -39,9 +39,7 @@ namespace Ejercicio06
                 }
                     if (i%4==0)
                     {
-                      
                         bisiestos[j]=i;
-                     
                     }
                     
                 j++;
